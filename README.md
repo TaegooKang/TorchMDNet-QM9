@@ -1,7 +1,7 @@
 ## [Space-S x KaKR] 그래프 러닝 및 해커톤
 
 ### Torch-MD Net
-Code-model.py is from [https://github.com/torchmd/torchmd-net](https://github.com/torchmd/torchmd-net)
+Code(model.py) is from [https://github.com/torchmd/torchmd-net](https://github.com/torchmd/torchmd-net)
 
 ### Set environment
 ```
